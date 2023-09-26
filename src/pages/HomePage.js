@@ -1,3 +1,4 @@
+import '../styles/pages/HomePage.css';
 const Home = (props) => {
     return(
         <main class="holder">

@@ -1,3 +1,4 @@
+import '../../styles/components/Header.css';
 const Header = (props) => {
     return(
         <header>

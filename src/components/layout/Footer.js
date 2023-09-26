@@ -1,6 +1,7 @@
+import '../../styles/components/Footer.css';
 const Footer = (props) => {
     return(
-        <div>pie</div>
+        <footer> Diseñado por Francisco Marcelo Gil</footer>
     );
 }
 export default Footer;

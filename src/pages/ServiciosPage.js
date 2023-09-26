@@ -1,3 +1,5 @@
+import '../styles/pages/ServiciosPage.css';
+
 const ServiciosPage = (props) => {
     return (
         <main class="holder">

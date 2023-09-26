@@ -1,3 +1,4 @@
+import '../styles/pages/NovedadesPage.css';
 const NovedadesPage = (props) => {
     return (
         <main class="holder">

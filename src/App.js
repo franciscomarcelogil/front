@@ -12,6 +12,8 @@ import ContactoPage from "./pages/ContactoPage";
 import NovedadesPage from "./pages/NovedadesPage";
 import NosotrosPage from "./pages/NosotrosPage";
 
+import './App.css';
+
 function App() {
   return (
     <div className="App">

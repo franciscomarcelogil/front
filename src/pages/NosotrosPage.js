@@ -1,3 +1,4 @@
+import '../styles/pages/NosotrosPage.css';
 const NosotrosPage = (props) => {
     return (
         <main>
@@ -48,7 +49,7 @@ const NosotrosPage = (props) => {
                     </p>
                 </div>
                 <div class="persona">
-                    <img src="img/nosotros5.jpg" alt="Juan Gomez"/>
+                    <img src="img/nosotros5.jpg" alt="Juan Gomez"/ >
                     <h5> Lorenzo Gil</h5>
                     <h6>empleado</h6>
                     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Officia fuga vero aspernatur tempore! Saepe minima nesciunt officiis, impedit aperiam perspiciatis molestiae, recusandae facere consequuntur adipisci illum officia nihil laborum voluptatibus!
